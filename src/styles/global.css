@@ -1,0 +1,16 @@
+/**
+ * Global site styles
+ * @author Gerson Lázaro <iam@gersonlazaro.com>
+ * @date 2020
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+html, body {
+  background-color: #151515;
+}
+
+.container-fluid {
+  padding-left: 60px;
+  padding-right: 60px;
+}

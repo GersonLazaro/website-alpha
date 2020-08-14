@@ -1,0 +1,14 @@
+/**
+ * Logo component styles
+ * @author Gerson Lázaro <iam@gersonlazaro.com>
+ * @date 2020
+ */
+
+.header {
+    margin-top: 50px;
+}
+
+.header img {
+    height: 64px;
+    width: 50px;
+}

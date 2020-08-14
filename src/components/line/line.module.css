@@ -1,0 +1,51 @@
+/**
+ * Line component styles
+ * @author Gerson Lázaro <iam@gersonlazaro.com>
+ * @date 2020
+ */
+
+.distributionOne,
+.distributionTwo,
+.distributionThree {
+  line-height: 8px;
+}
+
+.distributionOne .firstLine {
+  width: 100px;
+}
+
+.distributionOne .secondLine {
+  width: 178px;
+}
+
+.distributionTwo .firstLine {
+  width: 200px;
+}
+
+.distributionTwo .secondLine {
+  width: 138px;
+}
+
+.distributionThree .firstLine {
+  width: 100px;
+}
+
+.distributionThree .secondLine {
+  width: 68px;
+}
+
+.firstLine,
+.secondLine {
+  display: inline-block;
+  height: 7px;
+  margin-bottom: 12px;
+}
+
+.firstLine {
+  background-color: #1A1A1A;
+  margin-right: 6px;
+}
+
+.secondLine {
+  background-color: #232323;
+}
